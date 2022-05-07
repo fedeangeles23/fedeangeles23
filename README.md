@@ -1,4 +1,4 @@
-## Hello 
+## Hello 👋
 
 My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 
@@ -7,6 +7,12 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 * I am currently studying "Licenciatura en Informática" in "Universidad Nacional de La Plata"
 
 * I plan to start studying "Licenciatura en Inglés" in "Universidad Nacional de La Plata"
+
+<div align="center">
+  <a href="https://github.com/fedeangeles23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedeangeles23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeangeles23&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ## Skills
 
