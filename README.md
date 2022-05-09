@@ -16,9 +16,10 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 
 ## Skills
 
+* NodeJs.
+* JavaScript.
 * HTML, CSS , Boostrap Web Design.
-* JavaScript
-* MySQL
+* MySQL.
 * Use of tools such as Trello, GitHub, Slack among other tools
 * Google search specialist (?
 
