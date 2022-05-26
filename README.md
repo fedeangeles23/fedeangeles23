@@ -1,5 +1,7 @@
 ## Hello 👋
-<img src="https://komarev.com/ghpvc/?username=fedeangeles23" alt="anandmainali" /> [![GitHub Thaiane](https://img.shields.io/github/followers/fedeangeles23?label=follow&style=social)](https://github.com/fedeangeles23)
+<img src="https://komarev.com/ghpvc/?username=fedeangeles23" alt="fedeangeles23" /> [![GitHub Thaiane](https://img.shields.io/github/followers/fedeangeles23?label=follow&style=social)](https://github.com/fedeangeles23)
+
+<br>
 
 My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 
@@ -8,13 +10,14 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 * I am currently studying "Licenciatura en Informática" in "Universidad Nacional de La Plata"
 
 * I plan to start studying "Licenciatura en Inglés" in "Universidad Nacional de La Plata"
-
+<br>
 <div align="center">
   <a href="https://github.com/fedeangeles23">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fedeangeles23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeangeles23&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
+<br>
+  
 ## Skills
 
 * NodeJs.
@@ -24,6 +27,8 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 * Use of tools such as Trello, GitHub, Slack among other tools
 * Google search specialist (?
 
+<br>
+  
 ## Contact
 
 [![Twitter: nahuel_angeles](https://img.shields.io/twitter/follow/nahuel_angeles?style=social)](https://twitter.com/nahuel_angeles)
