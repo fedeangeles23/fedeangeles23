@@ -24,5 +24,8 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 * Google search specialist (?
 
 ## Contact
-
+[![Twitter: nahuel_angeles](https://img.shields.io/twitter/follow/nahuel_angeles?style=social)](https://twitter.com/nahuel_angeles)
+[![Linkedin: fedeangeles23](https://img.shields.io/badge/-fedeangeles23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/fedeangeles23?label=follow&style=social)](https://github.com/fedeangeles23)
+  
 fedeangeles23@gmail.com
