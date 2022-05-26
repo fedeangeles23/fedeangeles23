@@ -1,6 +1,9 @@
 ## 👋 Hello <img src="https://komarev.com/ghpvc/?username=fedeangeles23" alt="fedeangeles23" /> [![GitHub Thaiane](https://img.shields.io/github/followers/fedeangeles23?label=follow&style=social)](https://github.com/fedeangeles23)
 
-[![The-Difference-between-Web-Designer-Web-Developer-and-Web-Programmer.jpg](https://i.postimg.cc/Y9wR9yMJ/The-Difference-between-Web-Designer-Web-Developer-and-Web-Programmer.jpg)](https://postimg.cc/McdV35cD)
+
+<div width= ><a href="https://github.com/fedeangeles23">
+<img align="center" src="https://i.postimg.cc/Y9wR9yMJ/The-Difference-between-Web-Designer-Web-Developer-and-Web-Programmer.jpg)](https://postimg.cc/McdV35cD"/>
+</a></div>
 
 <br>
 
@@ -56,10 +59,15 @@
 <a href="https://www.instagram.com/fedeangeles23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@fedeangeles23-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.linkedin.com/in/fedeangeles23/" target="blue"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fedeangeles23-blue?style=flat&logo=linkedin"></a></a>
 <a href="mailto:fedeangeles23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fedeangeles23@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://stackoverflow.com/users/287697/fedeangeles23?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-fedeangeles23-blue?style=flat&logo=stackoverflow">
 
 <br>
 
-[![How-to-Become-a-Web-Developer.jpg](https://i.postimg.cc/DfPjWFW5/How-to-Become-a-Web-Developer.jpg)](https://postimg.cc/BttcyrB1)
+<a href="https://github.com/priyanshumay">
+<img align="center" src="https://i.postimg.cc/DfPjWFW5/How-to-Become-a-Web-Developer.jpg)](https://postimg.cc/BttcyrB1"/>
+</a>
+
+<br>
+
+<br>
 
 ⭐️ From [@fedeangeles23](https://github.com/fedeangeles23)
