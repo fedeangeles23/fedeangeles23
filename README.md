@@ -34,7 +34,7 @@ My name is Federico, I'm from Argentina and i'm a Full Stack Developer.
 [![Twitter: nahuel_angeles](https://img.shields.io/twitter/follow/nahuel_angeles?style=social)](https://twitter.com/nahuel_angeles)
 <a href="https://www.linkedin.com/in/fedeangeles23/" target="blue"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fedeangeles23-blue?style=flat&logo=linkedin"></a></a>
 <a href="mailto:fedeangeles23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fedeangeles23@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://stackoverflow.com/users/8519896/fedeangeles23?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-fedeangeles23-blue?style=flat&logo=stackoverflow">
+<a href="https://stackoverflow.com/users/287697/fedeangeles23?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-fedeangeles23-blue?style=flat&logo=stackoverflow">
 
 <br>
 
