@@ -1,8 +1,8 @@
 ## 👋 Hello <img src="https://komarev.com/ghpvc/?username=fedeangeles23" alt="fedeangeles23" /> [![GitHub Thaiane](https://img.shields.io/github/followers/fedeangeles23?label=follow&style=social)](https://github.com/fedeangeles23)
 
 
-<div width= ><a href="https://github.com/fedeangeles23">
-<img align="center" src="https://i.postimg.cc/Y9wR9yMJ/The-Difference-between-Web-Designer-Web-Developer-and-Web-Programmer.jpg)](https://postimg.cc/McdV35cD"/>
+<div align="center" ><a href="https://github.com/fedeangeles23">
+<img height="600px" width="1050px" src="https://i.postimg.cc/Y9wR9yMJ/The-Difference-between-Web-Designer-Web-Developer-and-Web-Programmer.jpg)](https://postimg.cc/McdV35cD"/>
 </a></div>
 
 <br>
@@ -53,7 +53,7 @@
   
 ## 🤝 Contact
 
-<br>  
+<br>    
   
 [![Twitter: nahuel_angeles](https://img.shields.io/twitter/follow/nahuel_angeles?style=social)](https://twitter.com/nahuel_angeles)
 <a href="https://www.instagram.com/fedeangeles23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@fedeangeles23-blue?style=flat-square&logo=instagram"></a>
@@ -62,9 +62,9 @@
 
 <br>
 
-<a href="https://github.com/priyanshumay">
-<img align="center" src="https://i.postimg.cc/DfPjWFW5/How-to-Become-a-Web-Developer.jpg)](https://postimg.cc/BttcyrB1"/>
-</a>
+<div align="center" ><a href="https://github.com/fedeangeles23">
+<img height="600px" width="1050px" src="https://i.postimg.cc/DfPjWFW5/How-to-Become-a-Web-Developer.jpg)](https://postimg.cc/BttcyrB1"/>
+</a></div>
 
 <br>
 
