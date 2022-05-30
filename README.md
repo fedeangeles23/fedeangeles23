@@ -38,22 +38,28 @@
 </div>
 <br>
   
-## 🛠 Tech Stack
+## 🛠 Tech && Tools Preference
 
 <br>
 
-* NodeJs.
-* JavaScript.
-* HTML, CSS , Boostrap Web Design.
-* MySQL. 
-* Use of tools such as Trello, GitHub, Slack among other tools
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="NodeJs"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" alt="Git"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat" alt="Express.js"></a>
+<a href="https://github.com/fedeangeles23"><img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://github.com/fedeangeles23"><img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" alt="Sass"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" alt="MySQL"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF" alt="GraphQL"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" alt="React"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white" alt="Vercel"></a>
+
+* Use of tools such as **Trello**, **Slack**, **DBeaver**, **Zoom**, **Google Meets** among other tools.
 * Google search specialist (?
-  
-<br>
-  
-<a href="https://github.com/fedeangeles23">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a> <a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a> <a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a> <a href="https://github.com/priyanshumayfedeangeles23"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"> 
-<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a> <a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a> <a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a> <a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
   
 <br>
   
