@@ -62,6 +62,16 @@
 * Google search specialist (?
   
 <br>
+
+  ## Repositories
+  
+  * [Practical Jobs & Exercises [DIGITAL HOUSE]](https://github.com/fedeangeles23/C17-TPS-y-Ejercitaciones)
+  * [Group Projects [DIGITAL HOUSE & OTHER GROUPS]](https://github.com/fedeangeles23/GroupProjects.git)
+  * [Individual Projects [By Me]](https://github.com/fedeangeles23/IndividualProjects.git)
+  
+  
+  
+<br> 
   
 ## 🤝 Contact
 
