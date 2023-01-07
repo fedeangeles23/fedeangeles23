@@ -82,12 +82,4 @@
 
 <br>
 
-<div align="center" ><a href="https://github.com/fedeangeles23">
-<img height="600px" width="1050px" src="https://i.postimg.cc/DfPjWFW5/How-to-Become-a-Web-Developer.jpg)](https://postimg.cc/BttcyrB1"/>
-</a></div>
-
-<br>
-
-<br>
-
 ⭐️ From [@fedeangeles23](https://github.com/fedeangeles23)
